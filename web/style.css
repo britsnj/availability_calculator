@@ -1,0 +1,16 @@
+h1{
+		color: green;
+		text-align: center;
+	}
+	.wrapper{
+		margin: 50px;
+		text-align: center;
+	}
+	.tx_element{
+	    position: absolute;
+	    height: 40px;
+	    width: 150px;
+	    background-color: green;
+		display: block;
+		text-align: center;
+	}
